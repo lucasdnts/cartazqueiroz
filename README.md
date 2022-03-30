@@ -1,1 +1,1 @@
-# cartazqueiroz
+# Gerador de cartaz beta
